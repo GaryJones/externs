@@ -9,7 +9,7 @@ var genesisL10n;
  * @type {string}
  * @const
  */
-genesisL10n.category_checklist_toggle;
+genesisL10n.categoryChecklistToggle;
 
 /**
  * @type {string}
